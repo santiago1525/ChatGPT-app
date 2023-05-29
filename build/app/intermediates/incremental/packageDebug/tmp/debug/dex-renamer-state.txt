@@ -1,0 +1,4 @@
+#Sun May 28 17:46:35 COT 2023
+base.0=C\:\\Users\\santi\\OneDrive - unimilitar.edu.co\\Escritorio\\Proyectos\\Flutter\\chat_gpt\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
