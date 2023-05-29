@@ -1,6 +1,6 @@
 # chat_gpt
 
-A new Flutter project.
+You can to preview this proyect here: https://drive.google.com/file/d/15qm4nyWwDnwUvVdOR1WpmJ0rCSWlyT8Z/view?usp=share_link
 
 ## Getting Started
 
